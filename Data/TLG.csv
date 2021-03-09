@@ -1,0 +1,66 @@
+Summary Page,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Activity Alert list ,,,,Total Number of Students,,Activity Summary for Classroom,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+alert_list,,,,Section:,Total # of students,Section:,Total # of missed days ,Total # of active days ,Average missed days per student,Average active days per student,Difference from school average ,% of active users,Difference from school average ,
+,,,,,,,,,,,,,,
+,,,,School,# of students,School,total missed days in classroom,total active days in classroom,average missed days in classroom,average active days in classroom,N/A,% of active students in classroom,N/A,
+,,,,,,,,,,,,,,
+,,,,Kindergarten,total # of students in Kindergarten,Kindergarten,total of missed days in classroom by Kindergarten,total of active days in classroom by Kindergarten,average missed days in classroom by Kindergarten,average active days in classroom by Kindergarten,% delta from school average in classroom for Kindergarten,% of active students in classroom in Kindergarten,% delta from school average of active students in classroom for Kindergarten,
+,,,,,,,,,,,,,,
+,,,,1st,total # of students in 1st,1st,total of missed days in classroom by 1st,total of active days in classroom by 1st,average missed days in classroom by 1st,average active days in classroom by 1st,% delta from school average in classroom for 1st,% of active students in classroom in 1st,% delta from school average of active students in classroom for 1st,
+,,,,,,,,,,,,,,
+,,,,2nd,total # of students in 2nd,2nd,total of missed days in classroom by 2nd,total of active days in classroom by 2nd,average missed days in classroom by 2nd,average active days in classroom by 2nd,% delta from school average in classroom for 2nd,% of active students in classroom in 2nd,% delta from school average of active students in classroom for 2nd,
+,,,,,,,,,,,,,,
+,,,,3rd,total # of students in 3rd,3rd,total of missed days in classroom by 3rd,total of active days in classroom by 3rd,average missed days in classroom by 3rd,average active days in classroom by 3rd,% delta from school average in classroom for 3rd,% of active students in classroom in 3rd,% delta from school average of active students in classroom for 3rd,
+,,,,,,,,,,,,,,
+,,,,4th,total # of students in 4th,4th,total of missed days in classroom by 4th,total of active days in classroom by 4th,average missed days in classroom by 4th,average active days in classroom by 4th,% delta from school average in classroom for 4th,% of active students in classroom in 4th,% delta from school average of active students in classroom for 4th,
+,,,,,,,,,,,,,,
+,,,,5th,total # of students in 5th,5th,total of missed days in classroom by 5th,total of active days in classroom by 5th,average missed days in classroom by 5th,average active days in classroom by 5th,% delta from school average in classroom for 5th,% of active students in classroom in 5th,% delta from school average of active students in classroom for 5th,
+,,,,,,,,,,,,,,
+,,,,6th,total # of students in 6th,6th,total of missed days in classroom by 6th,total of active days in classroom by 6th,average missed days in classroom by 6th,average active days in classroom by 6th,% delta from school average in classroom for 6th,% of active students in classroom in 6th,% delta from school average of active students in classroom for 6th,
+,,,,,,,,,,,,,,
+,,,,Google Docs Data,,,,Usage Summary of Logins,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Section,Docs edited,Docs viewed,Docs created ,Grade/Section,Total # of missed days,Total # of active days ,Average active days per student,Difference from school average ,% of active users ,Difference from school average 
+,,,,,,,,,,,,,,
+,,,,School,total docs edited,total docs viewed,total docs created,School,total missed days by login,total active days by login,average active days by login,N/A,% of active students by login,N/A
+,,,,,,,,,,,,,,
+,,,,Kindergarten,total docs edited by Kindergarten,total docs viewed by Kindergarten,total docs created by Kindergarten,Kindergarten,total of missed days by login of Kindergarten,total of active days by login of Kindergarten,average active days by login of Kindergarten,% delta from school average of login for Kindergarten,% of active students by login in Kindergarten,% delta from school average of active students from logins for Kindergarten
+,,,,,,,,,,,,,,
+,,,,1st,total docs edited by 1st,total docs viewed by 1st,total docs created by 1st,1st,total of missed days by login of 1st,total of active days by login of 1st,average active days by login of 1st,% delta from school average of login for 1st,% of active students by login in 1st,% delta from school average of active students from logins for 1st
+,,,,,,,,,,,,,,
+,,,,2nd,total docs edited by 2nd,total docs viewed by 2nd,total docs created by 2nd,2nd,total of missed days by login of 2nd,total of active days by login of 2nd,average active days by login of 2nd,% delta from school average of login for 2nd,% of active students by login in 2nd,% delta from school average of active students from logins for 2nd
+,,,,,,,,,,,,,,
+,,,,3rd,total docs edited by 3rd,total docs viewed by 3rd,total docs created by 3rd,3rd,total of missed days by login of 3rd,total of active days by login of 3rd,average active days by login of 3rd,% delta from school average of login for 3rd,% of active students by login in 3rd,% delta from school average of active students from logins for 3rd
+,,,,,,,,,,,,,,
+,,,,4th,total docs edited by 4th,total docs viewed by 4th,total docs created by 4th,4th,total of missed days by login of 4th,total of active days by login of 4th,average active days by login of 4th,% delta from school average of login for 4th,% of active students by login in 4th,% delta from school average of active students from logins for 4th
+,,,,,,,,,,,,,,
+,,,,5th,total docs edited by 5th,total docs viewed by 5th,total docs created by 5th,5th,total of missed days by login of 5th,total of active days by login of 5th,average active days by login of 5th,% delta from school average of login for 5th,% of active students by login in 5th,% delta from school average of active students from logins for 5th
+,,,,,,,,,,,,,,
+,,,,6th,total docs edited by 6th,total docs viewed by 6th,total docs created by 6th,6th,total of missed days by login of 6th,total of active days by login of 6th,average active days by login of 6th,% delta from school average of login for 6th,% of active students by login in 6th,% delta from school average of active students from logins for 6th
+,,,,,,,,,,,,,,
+,,,,,Meet Report,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,Grade/Section,Total Hours Spent,Average Hours per student,% delta from school,Total # of missed days,Total # of active days ,Average active days per student,Difference from school average ,% of active users ,Difference from school average 
+,,,,,,,,,,,,,,
+,,,,,School,total_time_in_meet,average_time_in_meet,N/A,total missed days in meet,total active days in meet,average active days in meet,N/A,% of active students in meet,N/A
+,,,,,,,,,,,,,,
+,,,,,Kindergarten,total_time_in_meet_Kindergarten,average_time_in_meet_Kindergarten,%d from school average of average time spent on meets by Kindergarten,total of missed days in meet by Kindergarten,total of active days in meet by Kindergarten,average active days in meet by Kindergarten,% delta from school average in meet by Kindergarten,% of active students in meet in Kindergarten,% delta from school average of active students in meet for Kindergarten
+,,,,,,,,,,,,,,
+,,,,,1st,total_time_in_meet_1st,average_time_in_meet_1st,%d from school average of average time spent on meets by 1st,total of missed days in meet by 1st,total of active days in meet by 1st,average active days in meet by 1st,% delta from school average in meet by 1st,% of active students in meet in 1st,% delta from school average of active students in meet for 1st
+,,,,,,,,,,,,,,
+,,,,,2nd,total_time_in_meet_2nd,average_time_in_meet_2nd,%d from school average of average time spent on meets by 2nd,total of missed days in meet by 2nd,total of active days in meet by 2nd,average active days in meet by 2nd,% delta from school average in meet by 2nd,% of active students in meet in 2nd,% delta from school average of active students in meet for 2nd
+,,,,,,,,,,,,,,
+,,,,,3rd,total_time_in_meet_3rd,average_time_in_meet_3rd,%d from school average of average time spent on meets by 3rd,total of missed days in meet by 3rd,total of active days in meet by 3rd,average active days in meet by 3rd,% delta from school average in meet by 3rd,% of active students in meet in 3rd,% delta from school average of active students in meet for 3rd
+,,,,,,,,,,,,,,
+,,,,,4th,total_time_in_meet_4th,average_time_in_meet_4th,%d from school average of average time spent on meets by 4th,total of missed days in meet by 4th,total of active days in meet by 4th,average active days in meet by 4th,% delta from school average in meet by 4th,% of active students in meet in 4th,% delta from school average of active students in meet for 4th
+,,,,,,,,,,,,,,
+,,,,,5th,total_time_in_meet_5th,average_time_in_meet_5th,%d from school average of average time spent on meets by 5th,total of missed days in meet by 5th,total of active days in meet by 5th,average active days in meet by 5th,% delta from school average in meet by 5th,% of active students in meet in 5th,% delta from school average of active students in meet for 5th
+,,,,,,,,,,,,,,
+,,,,,6th,total_time_in_meet_6th,average_time_in_meet_6th,%d from school average of average time spent on meets by 6th,total of missed days in meet by 6th,total of active days in meet by 6th,average active days in meet by 6th,% delta from school average in meet by 6th,% of active students in meet in 6th,% delta from school average of active students in meet for 6th
